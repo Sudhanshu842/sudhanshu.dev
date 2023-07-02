@@ -118,8 +118,10 @@ const Projects = () => {
                         {/* start of projects container */}
 
                         {projects.map(({id, title, info, src, span, button_margin, info_margin}) => (
+            // eslint-disable-next-line no-useless-concat
                             <div key={id} className={'flex ' +' '+span}>
                                 <div className=' rounded-2xl w-full gap-x-4'>
+                                    // eslint-disable-next-line no-useless-concat
                                     <div class={" rounded-xl text-gray-100 transform duration-500 hover:-translate-y-1 cursor-pointer " + ' ' +
                                     src}>
                                         
@@ -129,6 +131,7 @@ const Projects = () => {
                                             <div class={info_margin}>
                                                 <span class="text-base">{info}</span>
                                             </div>
+                                            // eslint-disable-next-line no-useless-concat
                                             <div class={" flex justify-between " + ' ' + button_margin} >
                                                 <span class="p-3 pl-0 font-bold">Preview</span>
                                                 <span class="p-3  border-2 border-gray-200 rounded-md text-base hover:border-gray-200 cursor-pointer hover:text-red-500 ">github</span>
