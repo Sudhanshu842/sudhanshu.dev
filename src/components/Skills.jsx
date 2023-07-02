@@ -193,12 +193,12 @@ const Skills = () => {
                         <h3 className='text-center pt-4 font-semibold text-lg  mb-6'>Frotend Developer</h3>
                         <ul className='flex flex-col '>
                             {frontend.map(({ id, skills, percentage, level }) => (
-                                // eslint-disable-next-line no-useless-concat
+                                
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base'>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
-                                        // eslint-disable-next-line no-useless-concat
-                                        <div
+                                        
+                                        <div // eslint-disable-next-line
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
                                         </div>
@@ -215,8 +215,8 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base '>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
-                                        // eslint-disable-next-line no-useless-concat
-                                        <div
+                                       
+                                        <div // eslint-disable-next-line
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
                                         </div>
@@ -233,8 +233,8 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base '>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
-                                        // eslint-disable-next-line no-useless-concat
-                                        <div
+                                        
+                                        <div // eslint-disable-next-line
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
                                         </div>
@@ -251,8 +251,8 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base'>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
-                                        // eslint-disable-next-line no-useless-concat
-                                        <div
+                                       
+                                        <div // eslint-disable-next-line
                                             className={"bg-blue-400 left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
                                         </div>
@@ -270,8 +270,8 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base'>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
-                                        // eslint-disable-next-line no-useless-concat
-                                        <div
+                                        
+                                        <div // eslint-disable-next-line
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
                                         </div>
