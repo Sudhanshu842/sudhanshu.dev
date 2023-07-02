@@ -196,6 +196,7 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base'>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
+                                        // eslint-disable-next-line no-useless-concat
                                         <div
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
@@ -213,6 +214,7 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base '>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
+                                        // eslint-disable-next-line no-useless-concat
                                         <div
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
@@ -230,6 +232,7 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base '>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
+                                        // eslint-disable-next-line no-useless-concat
                                         <div
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
@@ -247,6 +250,7 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base'>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
+                                        // eslint-disable-next-line no-useless-concat
                                         <div
                                             className={"bg-blue-400 left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
@@ -265,6 +269,7 @@ const Skills = () => {
                                 <li key={id} className='px-8 mb-2'>
                                     <h6 className='font-semibold text-xs sm:text-sm md:text-base'>{skills}</h6>
                                     <div className="bg-gray-200  h-4 w-full rounded-2xl">
+                                        // eslint-disable-next-line no-useless-concat
                                         <div
                                             className={"bg-blue-400  left-0 flex h-full items-center justify-center rounded-2xl text-xs font-semibold text-black" + ' ' + percentage}>
                                             {level}
