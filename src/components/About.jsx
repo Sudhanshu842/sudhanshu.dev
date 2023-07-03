@@ -22,7 +22,6 @@ const About = () => {
                     {/* 💻 I craft innovative solutions and create seamless user experiences using the MERN stack. I specialize in MongoDB, Express.js, React.js, and Node.js to build robust web applications.
                     <br /><br /> */}
                     🔌 I'm also into hardware hacking, tinkering with electronics, & combining software and hardware for unique experiences. I love building custom IoT devices and experimenting with Arduino/Raspberry Pi.
-                    <br />
                     🚀 Continuous learning is key to my professional journey. I seek new opportunities, refine my skills, and stay up-to-date with industry trends. Collaboration with dynamic teams is where I thrive.
 
                 </p>

@@ -124,7 +124,7 @@ const Projects = () => {
                                 <div className=' rounded-2xl w-full gap-x-4'>
                                     
                                     <div  // eslint-disable-next-line
-                                    class={" rounded-xl text-gray-100 transform duration-500 hover:-translate-y-1 cursor-pointer " + ' ' +
+                                    class={" rounded-xl text-gray-100 transform duration-500 hover:-translate-y-1 cursor-pointer lazy-background " + ' ' +
                                     src}>
                                         
                                         <div class="bg-black bg-opacity-60 p-10 rounded-xl">

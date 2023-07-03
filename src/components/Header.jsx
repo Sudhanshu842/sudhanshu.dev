@@ -68,7 +68,7 @@ const Header = () => {
 
                 {nav && (
                     <div className=' flex justify-center bottom-0 left-0 fixed z-20 w-full px-6 md:px-12 h-36 sm:h-40 md:hidden rounded-t-3xl shadow-md shadow-black  border-t-2 border-l-2 border-r-2 transition ease-in-out duration-100 bg-gray-50'>
-                        <ul className='grid grid-cols-3 justify-items-center gap-x-2 sm:gap-x-16 gap-y-4 sm:gap-y-4 md:hidden'>
+                        <ul className='grid grid-cols-3 justify-items-center gap-x-2 sm:gap-x-16 gap-y-0 sm:gap-y-4 md:hidden'>
                             {links.map(({ id, link, icon }) => (
                                 <li
                                     key={id} className='flex m-auto sm:px-4 cursor-pointer capitalize text-base sm:text-xl font-medium text-gray-600 hover:scale-105 hover:text-black duration-200'>

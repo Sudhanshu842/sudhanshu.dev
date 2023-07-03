@@ -29,7 +29,7 @@ const Home = () => {
             <div className='max-w-screen-lg mx-auto flex flex-col items-center
              justify-evenly h-4/5 md:h-full pb-8
              px-4 md:flex-row '>
-                <div className='flex flex-col pt-20 justify-center h-full'>
+                <div className='flex flex-col pt-28 justify-center h-full'>
                     <h1 className='text-gray-500 text-xl py-4 max-w-md animate-bounce'><span className='animate-waving-hand'>👋</span> Hello there!</h1>
                     <h2 className='text-lg md:text-xl font-bold text-black duration-200'>
                         I'm a <span>{text}</span><Cursor />
@@ -67,7 +67,7 @@ const Home = () => {
                 </div>
                 <div>
                     <img src={Heroimage} alt="my profile" className='rounded-2xl
-                     mx-auto w-64 h-auto bg-cover border-4 border-black animate-border-wave ' />
+                     mx-auto w-64 h-auto bg-cover border-4 border-black animate-border-wave' />
                 </div>
             </div>
         </div>

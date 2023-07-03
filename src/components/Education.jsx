@@ -46,7 +46,7 @@ const Education = () => {
                             <div className='flex flex-row justify-between'>
                                 <div className=' text-sm sm:text-lg md:text-xl'>
                                     {place} <br />
-                                    <span className=' text-sm sm:text-lg md:text-2xl'>{city}</span> 
+                                    <span className=' text-sm sm:text-lg md:text-xl'>{city}</span> 
                                 </div>
                                 
                                 <div className='z-10 text-right'>

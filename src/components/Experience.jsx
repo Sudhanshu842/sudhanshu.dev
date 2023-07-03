@@ -46,7 +46,7 @@ const Experience = () => {
         <div className='pb-8 flex flex-col items-center'>
           <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Experience</p>
           <p className='py-6 text-xl'>
-            My Technical Level ! <span className='animate-grow'>🖥️</span>
+            My Experience ! <span className='animate-grow'>🎯</span>
           </p>
         </div>
         <div className="container px-16 sm:px-6 h-[460px] flex flex-col overflow-y-scroll  scrolling-touch gap-6 items-start pt-6

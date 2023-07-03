@@ -7,7 +7,7 @@ const Contact = () => {
             <div className='flex flex-col p-4 justify-start max-w-screen-lg mx-auto h-full'>
                 <div className='pb-8 flex flex-col items-center'>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>contact</p>
-                    <p className='py-6 text-xl'>
+                    <p className='py-6 text-xl text-center'>
                         submit the form below to get in touch with me <span className='animate-grow'>👻</span></p>
                 </div>
 
@@ -43,10 +43,10 @@ const Contact = () => {
             </div>
 
         </div>
-        <div class="bg-white  shadow w-full dark:bg-gray-900 pb-6 ">
+        <div class="bg-white bottom-0 z-10  shadow w-full dark:bg-gray-900 pb-24 md:pb-6 ">
         <div class="w-full max-w-screen-xl mx-auto ">
             <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-            <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 Sudhanshu™. Made with Code & love ! ❤️.</span>
+            <span class="block text-sm text-gray-500 text-center dark:text-gray-400">© 2023 Sudhanshu™. Made with Code & love ! ❤️.</span>
         </div>
     </div>
     </>
