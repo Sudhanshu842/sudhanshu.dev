@@ -1,7 +1,8 @@
 import React from 'react'
-import { FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaGithub, FaLinkedin,FaWhatsapp } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
+
 
 const Social = () => {
 
@@ -35,6 +36,13 @@ const Social = () => {
         },
         {
             id: 4,
+            child: (<>Whatsapp<FaWhatsapp size={20} />
+            </>
+            ),
+            href: "https://wa.link/fshrk8",
+        },
+        {
+            id: 5,
             child: (<>Resume <BsFillPersonLinesFill size={20} />
             </>
             ),
@@ -48,7 +56,7 @@ const Social = () => {
     return (
 
 
-        <div className='flex flex-col top-[45%] left-0 fixed'>
+        <div className='flex flex-col top-[45%] -left-1 fixed'>
             <ul>
                 {links.map(({ id, child, href, style, download }) =>
                 (
