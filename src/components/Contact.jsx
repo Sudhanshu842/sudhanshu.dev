@@ -46,7 +46,7 @@ const Contact = () => {
         <div class="bg-white  shadow w-full dark:bg-gray-900 pb-6 ">
         <div class="w-full max-w-screen-xl mx-auto ">
             <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-            <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="#" class="hover:underline">Sudhanshu™</a>. Made with Code & love ! ❤️.</span>
+            <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="" class="hover:underline">Sudhanshu™</a>. Made with Code & love ! ❤️.</span>
         </div>
     </div>
     </>
