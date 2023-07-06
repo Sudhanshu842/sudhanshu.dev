@@ -1,5 +1,5 @@
 import React from 'react'
-import Heroimage from '../assets/sudh_photo.JPG'
+import Heroimage from '../assets/home-page-photo.jpg'
 //import { MdOutlineKeyboardArrowRight } from 'react-icons/md'
 import { Link } from 'react-scroll'
 import { useTypewriter, Cursor } from 'react-simple-typewriter'

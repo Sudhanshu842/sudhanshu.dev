@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.ea881a06.css",
-    "main.js": "/static/js/main.94fd21a1.js",
+    "main.js": "/static/js/main.66825697.js",
     "static/media/netflix-clone.png": "/static/media/netflix-clone.d4768f6cbb3bb63a37e6.png",
-    "static/media/sudh_photo.JPG": "/static/media/sudh_photo.59634e17010a33cb02a5.JPG",
     "static/media/simple-dropdown.png": "/static/media/simple-dropdown.2f895b9ce29f3fdd2242.png",
     "static/media/simple-calculator.png": "/static/media/simple-calculator.b71e46b7fb1de0e9b86d.png",
     "static/media/portfolio.png": "/static/media/portfolio.921efbebafcf8ed8a0d4.png",
+    "static/media/home-page-photo.jpg": "/static/media/home-page-photo.7ea20bf32e9a7173ddae.jpg",
     "static/media/robocon.jpg": "/static/media/robocon.89a0e6b16c2f12c1e2ac.jpg",
     "static/media/kicad.jpg": "/static/media/kicad.8dd2b136c43eb2ed3857.jpg",
     "static/media/sloth-bot.jpg": "/static/media/sloth-bot.76b6e9dbc89aa6dd4f56.jpg",
@@ -15,10 +15,10 @@
     "static/media/darklogo.png": "/static/media/darklogo.bdf6ea4ee1bcb1cf65b1.png",
     "index.html": "/index.html",
     "main.ea881a06.css.map": "/static/css/main.ea881a06.css.map",
-    "main.94fd21a1.js.map": "/static/js/main.94fd21a1.js.map"
+    "main.66825697.js.map": "/static/js/main.66825697.js.map"
   },
   "entrypoints": [
     "static/css/main.ea881a06.css",
-    "static/js/main.94fd21a1.js"
+    "static/js/main.66825697.js"
   ]
 }
