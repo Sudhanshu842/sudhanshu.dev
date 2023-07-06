@@ -32,7 +32,7 @@ const Education = () => {
         <div name="about" className='w-full h-screen   text-gray-600 scrollbar scrollbar-thumb-gray-900 scrollbar-track-gray-100'>
             <div className='max-w-screen-lg px-4 mx-auto flex flex-col justify-center items-center w-3/4'>
                 <div className='pb-2 flex flex-col items-center'>
-                    <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Education</p>
+                    <p className='text-2xl sm:text-4xl font-bold inline border-b-4 border-gray-500'>Education</p>
                     <p className='py-4 text-xl'>Where i have studied ! <span className='animate-grow'>🎓</span></p>
                 </div>
                 <>

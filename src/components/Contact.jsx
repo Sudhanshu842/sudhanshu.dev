@@ -6,7 +6,7 @@ const Contact = () => {
         <div name="contact" className='w-full h-screen p-4 md:pt-28 lg:pt-48 text-gray-600 '>
             <div className='flex flex-col p-4 justify-start max-w-screen-lg mx-auto h-full'>
                 <div className='pb-8 flex flex-col items-center'>
-                    <p className='text-4xl font-bold inline border-b-4 border-gray-500'>contact</p>
+                    <p className='text-2xl sm:text-4xl font-bold inline border-b-4 border-gray-500'>contact</p>
                     <p className='py-6 text-xl text-center'>
                         submit the form below to get in touch with me <span className='animate-grow'>👻</span></p>
                 </div>

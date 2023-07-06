@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea881a06.css",
-    "main.js": "/static/js/main.66825697.js",
+    "main.css": "/static/css/main.1646cffa.css",
+    "main.js": "/static/js/main.7fc9ce38.js",
     "static/media/netflix-clone.png": "/static/media/netflix-clone.d4768f6cbb3bb63a37e6.png",
     "static/media/simple-dropdown.png": "/static/media/simple-dropdown.2f895b9ce29f3fdd2242.png",
     "static/media/simple-calculator.png": "/static/media/simple-calculator.b71e46b7fb1de0e9b86d.png",
@@ -14,11 +14,11 @@
     "static/media/little-lemon.png": "/static/media/little-lemon.4d498cdd1dc3d23886d9.png",
     "static/media/darklogo.png": "/static/media/darklogo.bdf6ea4ee1bcb1cf65b1.png",
     "index.html": "/index.html",
-    "main.ea881a06.css.map": "/static/css/main.ea881a06.css.map",
-    "main.66825697.js.map": "/static/js/main.66825697.js.map"
+    "main.1646cffa.css.map": "/static/css/main.1646cffa.css.map",
+    "main.7fc9ce38.js.map": "/static/js/main.7fc9ce38.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea881a06.css",
-    "static/js/main.66825697.js"
+    "static/css/main.1646cffa.css",
+    "static/js/main.7fc9ce38.js"
   ]
 }

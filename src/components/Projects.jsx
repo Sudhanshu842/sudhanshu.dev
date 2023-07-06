@@ -95,7 +95,7 @@ const Projects = () => {
         <div name="projects" className=' w-full pt-12 md:pt-28 text-gray-600 h-max'>
             <div className='px-0 md:p-4 mx-auto flex flex-col justify-center w-3/4'>
                 <div className='pb-2 md:pb-8 flex flex-col items-center '>
-                    <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
+                    <p className='text-2xl sm:text-4xl font-bold inline border-b-4 border-gray-500'>
                         Projects
                     </p>
                     <p className='py-2'>

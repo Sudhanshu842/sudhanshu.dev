@@ -44,7 +44,7 @@ const Experience = () => {
     <div name="experience" className='w-full h-screen pt-16 md:pt-28 text-gray-600 scrollbar scrollbar-thumb-gray-900 scrollbar-track-gray-100'>
       <div className=' mx-auto flex flex-col justify-center items-center w-full md:w-4/5'>
         <div className='pb-8 flex flex-col items-center'>
-          <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Experience</p>
+          <p className='text-2xl sm:text-4xl font-bold inline border-b-4 border-gray-500'>Experience</p>
           <p className='py-6 text-xl'>
             My Experience ! <span className='animate-grow'>🎯</span>
           </p>
