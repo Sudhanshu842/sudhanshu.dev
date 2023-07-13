@@ -33,12 +33,7 @@ const Skills = () => {
             percentage: 'w-[65%]',
             level: '65%',
         },
-        {
-            id: 6,
-            skills: 'Bootstrap',
-            percentage: 'w-[60%]',
-            level: '60%',
-        },
+        
     ]
 
     const backend = [
